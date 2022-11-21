@@ -25,3 +25,4 @@
  <li> For above three steps keep L & C values 10 mH-10nF, 1mh-100nF, 0.1mH-1000nF each time before changing the frequencies.Each time readings should be taken for three sets of values of L and C.</li> 
   
   </ol>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
