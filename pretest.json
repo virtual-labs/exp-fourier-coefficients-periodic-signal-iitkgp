@@ -1,0 +1,92 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A sine wave whose frequency is some integer multiple of a fundamental sine wave is called,",
+      "answers": {
+        "a": "Square wave",
+        "b": "Harmonic"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is he duty cycle of a square wave with equal durations positive and negative alterations?",
+      "answers": {
+        "a": "50%",
+        "b": "100%",
+        "c": "200%",
+        "d": "25%"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the frequency of the 7th harmonic of a 2KHz sine wave?",
+      "answers": {
+        "a": "9KHz",
+        "b": "14KHz",
+        "c": "5KHz",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the peak value of 5th harmonic if the square wave has a peak voltage of 3V and a frequency of 48KHz?",
+      "answers": {
+        "a": "0.76",
+        "b": "0.74",
+        "c": "0.52",
+        "d": "1.34"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which instrument produces frequency domain information?",
+      "answers": {
+        "a": "Oscilloscope",
+        "b": "Frequency divider",
+        "c": "Beam analyzer",
+        "d": "Spectrum analyzer"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+
+
+
+
+
+
+  ]
+}

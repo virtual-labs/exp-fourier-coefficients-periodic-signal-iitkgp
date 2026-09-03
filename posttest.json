@@ -1,0 +1,69 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What are Fourier Co-efficients?",
+      "answers": {
+        "a": "The terms that are present in a Fourier Series",
+        "b": "The terms that are obtained through Fourier Series",
+        "c": "The terms which consist of the fourier series along with their sine or co sine values",
+        "d": "The terms which are of resemblance to fourier transform"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Fourier Series is not true for discrete time sigals",
+      "answers": {
+        "a": "Yes",
+        "b": "No"
+         },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer"
+         },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Fourier Series uses which domain representation of signals?",
+      "answers": {
+        "a": "Time Domain",
+        "b": "Frequency Domain",
+        "c": "Both",
+        "d": "Neither depends on situaion"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How does Fourier Series make it easier to represent periodic signals?",
+      "answers": {
+        "a": "Harmonically related",
+        "b": "Periodically related",
+        "c": "Sinusoidally",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
